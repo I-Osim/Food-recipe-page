@@ -1,0 +1,97 @@
+body {
+    margin: 0%;
+    width: 100%;
+}
+
+.top-bar_1st {
+    height: 2.5em;
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.top-bar_1st img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 8em;
+}
+
+hr {
+    color: orange;
+    background-color: orange;
+    margin: 0;
+}
+
+.top-bar_2nd {
+    height: 2.5em;
+    background-color: rgb(253, 238, 220);
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.textc {
+    display: flex;
+    justify-content: center;
+    color: #4C6793;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+
+.foodname {
+    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0%;
+}
+
+.foodname p {
+    width: 18em;
+    justify-self: center;
+    margin: 0%;
+}
+
+.img-container {
+    padding-top: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+}
+
+.main p {
+    display: flex;
+    justify-content: center;
+}
+
+.image-author {
+    color: #CFD2CF;
+}
+
+.featured {
+    text-align: left;
+}
+
+.ingred {
+    font-size: 1.3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+ul {
+    padding: 0.5em;
+}
+
+ul li {
+    padding: 0.3em;
+}
